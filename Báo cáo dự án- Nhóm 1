@@ -1,0 +1,182 @@
+# Vu-Thi-Thuy-Linh
+Linh
+ 
+
+
+
+BÁO CÁO DỰ ÁN:
+“Xây dựng website quản lý trường học”
+
+
+Nhóm 1: Nguyễn Minh Trường
+                Vũ Thị Thùy Linh
+                 Vũ Danh Đức
+	       Giảng viên hướng dẫn:
+                        Nguyễn Thị Thùy Liên
+	
+
+
+
+09, 2010
+
+
+
+I.	Tìm hiểu thông tin 3 website quản lý trường học
+
+1.	Daotao.hnue.edu.vn (Trường Đại học Sư phạm Hà Nội)
+ 
+Trong website này quản lý mọi thông tin của giảng viên và sinh viên(hệ cao đẳng, đại học, văn bằng 2)
+Sử dụng được mọi lúc, mọi nơi, trên mọi thiết bị được xây dựng theo công nghệ tiên tiến nhất hiện nay – công nghệ điện toán đám mây, cho phép người dùng sử dụng mọi lúc, mọi nơi, trên mọi thiết bị (máy tính, laptop, máy tính bảng, điện thoại…) qua Internet.
+Giao diện sát với nghiệp vụ thực tiễn, đơn giản, dễ sử dụng.
+a.	Quản lý Sinh viên
+Phần mềm quản lý trường học này cho phép lưu trữ hồ sơ sinh viên gồm các thông tin như: họ tên, ngày sinh, nơi sinh, dân tộc, tôn giáo, ngày vào Đoàn, trình độ văn hoá, điện thoại, địa chỉ,… Ngoài ra còn lưu trữ quá trình học tập, quan hệ gia đình, hình ảnh của sinh viên.
+Quản lý điểm rèn luyện và điểm học tập của từng sinh viên theo từng học kỳ, từng năm học, toàn khoá. 
+b.	Quản lý Giảng viên
+Cho phép cập nhật thông tin về hồ sơ của giáo viên, lớp học phần, khen thưởng/kỷ luật , trình độ chuyên môn
+Lịch phân công giảng dạy của giáo viên theo tuần, theo tháng…
+c. Quản lý chương trình đào tạo
+Quản lý khung chương trình đào tạo của mỗi ngành học.
+Chương trình đào tạo thực tế có thể xây dựng cho từng lớp dựa trên khung chương trình đào tạo của ngành học tương ứng.
+d. Quản lý thời khóa biểu và tiến độ giảng dạy
+Lập thời khóa biểu hằng kỳ trên cơ sở có cảnh báo trùng giờ dạy của giáo viên và trùng phòng học, xem và in thời khóa biểu của lớp và của giảng viên.
+Quản lý tiến độ giảng dạy cho từng học phần ở các lớp như số tiết đã học hằng tuần, tổng số tiết đã học, số tiết còn lại, …
+e.  Quản lý điểm và kết quả học tập
+Điểm của sinh viên được quản lý theo từng niên khoá, theo lớp học phần, đối với mỗi sinh viên quản lý điểm của từng lần kiểm tra: chuyên cần(chiếm 10%), điểm thi giữa kỳ(chiếm 30%), điểm thi học kỳ(chiếm 60%), từ đó tính điểm trung bình môn, điểm trung bình học kỳ, điểm trung bình năm học, xếp loại học lực và các chỉ tiêu khác của bảng điểm. Công thức tính điểm các môn học được quản lý và cập nhật bởi người sử dụng. Ngoài điểm học lực phần mềm cũng quản lý điểm hạnh kiểm, số ngày nghỉ học, khen thưởng kỷ luật của sinh viên
+f. Quản lý học phí
+Quản lý học phí quy định theo từng học kỳ của mỗi lớp. In bảng kê danh sách nộp học phí (theo lớp, theo mã sinh viên, theo thời gian nộp,..); danh sách thiếu học phí, đủ học phí. Thống kê học phí, nhập học phí học lại.
+g. Quản lý cấp bằng tốt nghiệp
+Nhập các thông tin về bằng tốt nghiệp như: Số hiệu bằng, ngày ký bằng, người ký bằng; Quyết định công nhận tốt nghiệp, người ký quyết định, ngày ký quyết định,...
+h. Xuất dữ liệu ra Excel
+Phần mềm cho phép cán bộ giáo viên có thể xuất các dữ liệu thông tin ra file Excel, PDF  để có thể tiện theo dõi in ấn.
+i. Phân quyền sử dụng
+Phần mềm quản lý trường học: Cho phép phân quyền sử dụng theo các mức sau
++ Người nắm quyền có thể phân quyền cho các nhân viên khác được quyền đăng nhập và phân quyền từng chức năng cho từng tổ/ bộ phận/ cán bộ giáo viên và sinh viên. 
+Ví dụ : 
+Nhân viên phòng đào tạo: Xét tuyển; phân lớp; nhập điểm; in các loại danh sách, bảng điểm; xét điều kiện lên lớp, thi tốt nghiệp, tốt nghiệp,...
+Nhân viên phòng quản lý sinh viên: Nhập hồ sơ sinh viên; lọc thông tin sinh viên; in bảng điểm; nhập điểm rèn luyện,...
+Nhân viên phòng tài vụ: Nhập học phí; in bảng kê danh sách nộp học phí; ...
+Giảng viên giảng dạy: Mỗi giáo viên bộ môn được phân quyền nhập điểm các môn học giảng dạy ngay tại trường hoặc tại nhà bằng cách sử dụng một module phần mềm đi kèm. Dữ liệu nhập tại nhà có thể dễ dàng Import vào CSDL của phần mềm tại trường
+Sinh viên được phân quyền đăng ký tín chỉ, cập nhập hồ sơ cá nhân, xem lịch học, xem học phí, đánh giá giảng viên, đăng ký ký túc xá…
+
+
+2.	Daotao.hup.edu.vn (Trường Đại học Dược Hà Nội)
+ 
+ 
+
+Quản lý Sinh viên
+Phần mềm quản lý trường đại học Dược Hà Nội cho phép lưu trữ hồ sơ sinh viên gồm các thông tin như: đăng ký học lại, cải thiện, đăng ký học bình thường, đăng ký thi lại và cải thiện, thông tin tài chính, bảng điểm cá nhân,… Quản lý điểm rèn luyện và điểm học tập của từng sinh viên theo từng học kỳ, từng năm học, toàn khoá. 
+
+3.	Daotao.hcct.edu.vn (Cao đẳng thương mại và du lịch Hà Nội)
+ 
+Quản lý Sinh viên
+Phần mềm quản lý trường cao đẳng thương mại và du lịch Hà Nội cho phép lưu trữ hồ sơ sinh viên gồm các thông tin như: đăng ký học, thông tin sinh viên, thời khóa biểu, bảng điểm, lịch thi. Không cho phép sinh viên cập nhập hồ sơ như địa chỉ, hình ảnh cá nhân
+Quản lý điểm rèn luyện và điểm học tập của từng sinh viên theo từng học kỳ, từng năm học, toàn khoá. 
+
+
+II.	So sánh ưu nhược điểm của 3 website
+Tên trang web 	Ưu Điểm 	Nhược Điểm 
+Trang đào tạo của Đại học Sư Phạm Hà Nội 	Ở trang chủ chưa cần có tài khoản vẫn xem được một số thông tin liên quan như : Chương trình đào tạo , Lịch đăng kí học , tra cứ văn bằng , hướng dẫn đăng ký … 
+Giao diện dễ nhìn, hiển thị được đầy đủ thông tin của sinh viên, giảng viên ..	Trang đăng nhập hiển thị  quá nhiều thông tin (sự kiện , tin tức , thông báo ) dẫn đến bố cục bị dối , các mục sự kiện tin tức và thông báo chưa sắp xếp gọn gàn chỗ thò chỗ thụt.  
+
+Không có địa chỉ trường …
+
+Khi đăng nhập vào giao diện hơi thưa , để trống một khoảng trắng rất lớn . thông tin , hình ảnh giới thiệu về trường hơi ít , menu hơi thiếu thông tin . 
+
+
+
+Trường cao đẳng thương mại và du lịch Hà Nội 
+
+
+
+
+
+	Bố cục phân chia rõ ràng , có địa chỉ cụ thể .sắp xếp gọn gàng 	Xuất hiện 2 thanh menu  (thừa ..)
+
+Tại trang chủ nhưng không có phần đăng nhập  , nhiều thông tin như lịch công tác … nhưng người k phải sinh viên trong trường cũng có thể xem được , hơi thừa thông tin . 
+
+Chuyến sang trang đăng nhập thì phần đăng nhập để trên thanh menu và hơi bé 
+Trường Đại Học Dược Hà Nội 	Login bằng javascrtps 
+Bố cục sắp xếp tương đối rõ ràng 	Có 2 thanh menu ở trên và ở dưới  
+
+Hiển Thị một số thông tin không phù hợp như office , thông tin nội bộ 
+
+Trong các trang con xử lý giao diện chưa tốt , chỗ viết có dấu chỗ viết k dấu … 
+
+Có phần đăng nhập ở trang chủ nhưng hơi khó tìm 
+
+Khi bấm vào đăng nhập mà cencel lại xuất hiễn lỗi 401 UNAUTHORIZED
+
+
+III.	Thông tin cơ bản của dự án xây dựng website quản lý trường học
+•	Sử dụng công nghệ lập trình website: ngôn ngữ PHP và sử dụng framework Laravel. Ngoài ra còn sử dụng HTML, CSS, JAVASCRIPT, BOOTSTRAP để thiết kế giao diện, tính động của trang web
+•	Các yêu cầu về tính năng kỹ thuật, giao diện và bảo mật
++ Giao diện trực quan, dễ sử dụng, tương thích với các trình duyệt phổ biến: cốc cốc, chrome..
++ Giao diện hiển thị ngôn ngữ: Tiếng Việt
++ Đáp ứng lượng truy cập lớn tại 1 thời điểm.
++ Phù hợp với nhiều đối tượng khác nhau.
++ Chứa đầy đủ chức năng như đăng ký lịch học, hồ sơ cá nhân, nhập điểm học phần, đăng ký ký túc xá, xét điểm học phần…
+	+ Cơ sở dữ liệu dung lượng lớn và lưu trữ được trong thời gian lâu dài, lưu được nhiều định dạng dữ liệu khác nhau( văn bản, hình ảnh,…)
+	+ Cho phép tìm kiếm thông tin.
+	+ An toàn và bảo mật.
+•	Các yêu cầu thiết kế hệ thống
+3 loại tài khoản: Admin, giảng viên và sinh viên
+-	Admin:
++ Quản lý hệ thống: Thêm, sửa, xóa người tài khoản người dùng
++ Thống kê tổng số người dùng, phân quyền truy cập cho người dùng
+-	Giảng viên:
++ Sửa thông tin cá nhân
++ Xem lịch giảng dạy,..
++ Nhập điểm 
++ Đăng ký lịch giảng dạy
++ Gửi ý kiến…
+-	Sinh viên:
++ Cập nhập thông tin cá nhân
++ Xem điểm học tập, chương trình đào tạo, xem học phí, xem lịch thi, xem điểm rèn luyện, xem thông tin thực tập tốt nghiệp
++ Đăng ký ký túc xá
++ Đăng ký học
++ Thanh toán học phí
++ Đánh giá giảng viên
++ Gửi ý kiến
++ Đăng ký dịch vụ online
+•	Các thành phần hệ thống
++ Website
++ Cơ sở dữ liệu
+
+IV.	Tổ chức thực hiện
+1.	Kế hoạch thực hiện dự án
+•	Phân tích và thiết kế hệ thống thông tin
+•	Viết chương trình dự án
+•	Kiểm thử dự án 
+•	Khắc phục, sửa lỗi
+•	Chạy thử dự án
+•	Khắc phục, sửa lỗi
+•	Nghiệm thu dự án
+2.	Yêu cầu kiểm tra nghiệm thu
+•	Đảm bảo thực hiện được các thao tác, chức năng cơ bản: quản lý, đăng ký học phần, nhập điểm…
+•	Thực hiện các thao tác nhanh, dễ dàng
+•	Thời gian xử lý tác vụ nhanh, kịp thời
+•	Không bị treo máy khi nhiều người dùng vào cùng một thời điểm 
+•	Luôn luôn cập nhật những thông tin mới
+
+3.	Phác thảo ứng dụng
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+4.	Tiến độ và thời gian thực hiện 
+
+STT	Nội dung công việc	Thời gian	Nhân công	Người thực hiện
+1	Thiết kế			Vũ Thị Thùy Linh & Nguyễn Minh Trường
+2	Code			Nguyễn Minh Trường & Vũ Danh Đức
+3	Test			Vũ Thị Thùy Linh 
+
+5.	Kết luận
+Hệ thống quản lý trường học giúp cán bộ giảng viên thực hiện các nghiệp vụ quản lý trường học như: Quản lý sinh viên, Quản lý cán bộ giáo viên, Quản lý giảng dạy, Quản lý thiết bị, Quản lý thu học phí,...giúp cán bộ giáo viên có thể ứng dụng CNTT trong trường học hướng đến một trường học điện tử, kết nối giữa trường học và sinh viên một cách nhanh chóng, theo đó phụ huynh học sinh có thể tra cứu tình hình học tập của con em một cách nhanh chóng dễ dàng.
+
